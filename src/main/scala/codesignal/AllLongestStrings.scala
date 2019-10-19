@@ -1,6 +1,5 @@
 package codesignal
 
-//Works
 object AllLongestStrings {
 
 

@@ -4,7 +4,6 @@ object CircleOfNumbers  {
 
   def circleOfNumbers(n: Int, firstNumber: Int): Int = {
 
-
     val half = n / 2
 
 if(firstNumber > half) {
